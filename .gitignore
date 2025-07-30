@@ -1,0 +1,29 @@
+﻿# === Build output ===
+[Bb]in/
+[Oo]bj/
+
+# === Visual Studio / Rider ===
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.idea/
+
+# === User-specific files ===
+*.user
+*.userosscache
+
+# === Data files to omit ===
+# – all CSV data files
+*.csv
+# – all JSON config/data files
+*.json
+
+# === Optional extras ===
+# Ignore temporary files
+*.tmp
+*.log
+# OS files
+Thumbs.db
+.DS_Store
